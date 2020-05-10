@@ -1,10 +1,13 @@
 form, .output {
-  background-color: rgb(220, 220, 220);
+  background-color: #cce4a1;
   padding: 2%;
-  border-radius: 10px;
-  border: 1px solid rgb(180, 180, 180);
+  border: 1px solid #869668;
 }
 
 .output {
   display: none;
+}
+
+img {
+  margin-top: 20px;
 }
