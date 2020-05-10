@@ -1,6 +1,10 @@
-form {
+form, .output {
   background-color: rgb(220, 220, 220);
   padding: 2%;
   border-radius: 10px;
   border: 1px solid rgb(180, 180, 180);
+}
+
+.output {
+  display: none;
 }
